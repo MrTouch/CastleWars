@@ -31,7 +31,7 @@ namespace Ch.ittouch.CastleHuman
             if (Health <= 0f)
             {
                 GameManager.Instance.LeaveRoom();
-            }
+            }   
         }
 
         /// <summary>
